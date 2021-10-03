@@ -1,0 +1,17 @@
+.Nav{
+    text-align: center;
+    text-decoration: none; 
+     background-color: black;
+     margin-top: 20px;
+}
+
+.link{
+    color: white;
+    padding: 5px;
+    font-size: 28px;
+    text-decoration: none;
+    line-height: 60 px;
+    
+}
+
+ 
